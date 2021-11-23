@@ -12,7 +12,7 @@ There are 5 code files
 
 Open **index.php** in your browser to and start adding products in the cart. You can click on the your cart button on right top to see all the products in the cart.
 
-### Technical explanation ###
+### Technical explanation and Instructions to setup project###
 Apache with atleast php version 7 installed, is required to run this assignment.  
 Before running the project you need to edit the header.php and configure the baseurl to your project directory.
 
